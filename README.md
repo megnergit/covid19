@@ -1,4 +1,6 @@
 # covid19
+COVID19-R0_explained:
+
 This notebook contains interacitve plot. To see them properly, please access 
 
 https://nbviewer.jupyter.org/github/megnergit/covid19/blob/master/COVID-19_R0_explained.ipynb
